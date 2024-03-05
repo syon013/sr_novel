@@ -1,6 +1,6 @@
 > 이 프로젝트는 웹소설 플랫폼 서비스를 구현하는 것을 목적으로 합니다. 데이터는 [알라딘 도서 OPEN API](https://blog.aladin.co.kr/openapi/popup/6695306)를 활용했으며, 디자인 및 기능 타겟 사이트는 [Blice](https://www.blice.co.kr/web/homescreen/main.kt?)입니다.
 
-![ryushin01 github io_sr_novel_main (1)](https://github.com/ryushin01/sr_novel/assets/134205968/b49b0dee-1777-473f-b293-bba93ea15dc2)
+![syon013 github io_sr_novel_main (1)](https://github.com/syon013/sr_novel/assets/134205968/b49b0dee-1777-473f-b293-bba93ea15dc2)
 
 - 개발자
 
@@ -9,7 +9,7 @@
     - 컴포넌트: 페이지네이션, 스와이퍼, 리스트아이템, 테마 스위치, 필터, 아이콘형 버튼, 줄거리 토글 버튼
     - 페이지: 메인, 리스트, 디테일, 회원가입
 
-  - [류창선(ryushin01)](https://github.com/ryushin01)
+  - [류창선(syon013)](https://github.com/syon013)
     - 컴포넌트: 헤더, 서체 및 테마 변경, 검색 결과 탭, 검색 상세 이동 태그, 푸터, 뱃지, 버튼, 아이콘형 버튼
     - 페이지: 검색, 뷰어
 
